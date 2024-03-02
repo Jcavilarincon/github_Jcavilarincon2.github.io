@@ -14,4 +14,4 @@ A continuacion algunos link de prensa de mi interes
 <a href="https://www.wradio.com.co" target="_blank">La W Radio2</a>
 
 ## Profile Photo using Markdown 
-![Profile pohto color](foto a color.jpeg)
+![Profile pohto color](foto a color.png)
