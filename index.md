@@ -12,4 +12,4 @@ A continuacion algunos link de prensa de mi interes
 <a href="https://www.wradio.com.co" target="_blank">La W Radio</a>
 
 ## Profile Photo using Markdown 
-![Foto de perfil!](https://github.com/Jcavilarincon/github_Jcavilarincon2.github.io/blob/main/foto%20a%20color.png "Foto de perfil")
+
