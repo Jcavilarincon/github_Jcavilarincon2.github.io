@@ -11,5 +11,7 @@ A continuacion algunos link de prensa de mi interes
 
 <a href="https://www.wradio.com.co" target="_blank">La W Radio</a>
 
+<a href="https://www.wradio.com.co" target="_blank">La W Radio2</a>
+
 ## Profile Photo 
 ![Ejemplo](image.jpg)
